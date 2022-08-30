@@ -1,0 +1,14 @@
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.exe
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.runtimeconfig.dev.json
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.dll
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.pdb
+C:\Users\guill\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
